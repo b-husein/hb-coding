@@ -1,5 +1,5 @@
 # hb-coding
-HB-Coding-Tutorials official website - coded in CSS; 
+HB-Coding-Tutorials official website;
 
 🔥 FOLLOW ME ON:
 
